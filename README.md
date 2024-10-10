@@ -10,7 +10,6 @@ This project aims to predict house prices using Ordinary Least Squares (OLS) reg
 
 - [Project Pipeline](#Project_Pipeline)
 - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
-- [Data Cleaning](#data-cleaning)
 - [Ordinary Least Squares (OLS)](#ordinary-least-squares-ols)
 - [Regression with Scikit-learn](#regression-with-scikit-learn)
 - [Error Metrics](#error-metrics)
@@ -40,9 +39,6 @@ We will examine the unique values of each feature to check for any remaining NaN
 
 Next, we will deal with NaN values using different strategies, such as replacing NaNs with the most used value, the mean, and zero. Finally, we will clean the feature names by replacing spaces with underscores and changing "1st" to "First."
 
-## Data Cleaning
-
-After completing the data cleaning process, we will proceed to implement the OLS regression model using Scikit-learn to predict house prices based on the prepared dataset.
 
 ## Ordinary Least Squares (OLS)
 
