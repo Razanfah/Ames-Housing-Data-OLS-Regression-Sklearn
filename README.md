@@ -1,7 +1,5 @@
 # Ames-Housing-Data-OLS-Regression-Sklearn
 
-# Ames Housing Price Prediction
-
 ## Overview
 
 This project aims to predict house prices using Ordinary Least Squares (OLS) regression and Scikit-learn, employing the Ames Housing dataset. The workflow consists of exploratory data analysis (EDA), data cleaning, OLS regression analysis, and model evaluation using Scikit-learn.
