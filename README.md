@@ -52,15 +52,10 @@ In this project, we will conduct an OLS regression analysis with the primary goa
 
 ### Model Summary
 
-- **Dependent Variable**: SalePrice
-- **R-squared**: 0.820
-- **Adjusted R-squared**: 0.819
-
-### Key Metrics
-
-- **R-squared** indicates that approximately 82.0% of the variance in `SalePrice` can be explained by the model. 
-- The **Adjusted R-squared** value is slightly lower at 81.9%, accounting for the number of predictors in the model.
-
+- Dependent Variable: SalePrice
+- Final R-squared (OLS): 0.879
+- Adjusted R-squared (OLs): 0.877
+  
 ## Regression with Scikit-learn
 
 In this section, we implement a robust regression analysis using Scikit-learn after addressing multicollinearity in our features.
