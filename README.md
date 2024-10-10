@@ -58,8 +58,8 @@ In this project, we will conduct an OLS regression analysis with the primary goa
 
 ### Key Metrics
 
-- **R-squared** indicates that approximately 82.1% of the variance in `SalePrice` can be explained by the model. 
-- The **Adjusted R-squared** value is slightly lower at 82.0%, accounting for the number of predictors in the model.
+- **R-squared** indicates that approximately 82.0% of the variance in `SalePrice` can be explained by the model. 
+- The **Adjusted R-squared** value is slightly lower at 81.9%, accounting for the number of predictors in the model.
 
 ## Regression with Scikit-learn
 
