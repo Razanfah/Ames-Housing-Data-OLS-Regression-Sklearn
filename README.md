@@ -1,6 +1,4 @@
 # Ames-Housing-Data-OLS-Regression-Sklearn
-# Project Pipeline
-![image](https://github.com/user-attachments/assets/1cfc7fe2-62d8-466b-99ab-449dbeb442ed)
 
 # Ames Housing Price Prediction
 
@@ -10,12 +8,16 @@ This project aims to predict house prices using Ordinary Least Squares (OLS) reg
 
 ## Table of Contents
 
+-[Project Pipeline](#Project_Pipeline)
 - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
 - [Data Cleaning](#data-cleaning)
 - [Ordinary Least Squares (OLS)](#ordinary-least-squares-ols)
 - [Regression with Scikit-learn](#regression-with-scikit-learn)
 - [Error Metrics](#error-metrics)
 - [Conclusion](#conclusion)
+
+## Project Pipeline
+![image](https://github.com/user-attachments/assets/1cfc7fe2-62d8-466b-99ab-449dbeb442ed)
 
 ## Exploratory Data Analysis (EDA)
 
