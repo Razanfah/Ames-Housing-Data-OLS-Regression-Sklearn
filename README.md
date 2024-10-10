@@ -8,7 +8,7 @@ This project aims to predict house prices using Ordinary Least Squares (OLS) reg
 
 ## Table of Contents
 
--[Project Pipeline](#Project_Pipeline)
+- [Project Pipeline](#Project_Pipeline)
 - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
 - [Data Cleaning](#data-cleaning)
 - [Ordinary Least Squares (OLS)](#ordinary-least-squares-ols)
