@@ -97,4 +97,8 @@ These metrics provide a comprehensive understanding of the model's predictive pe
 
 ## Conclusion
 
-The OLS regression analysis successfully identified significant predictors of `SalePrice`, culminating in a final model that achieved an R-squared value of 0.879. The regression analysis using Scikit-learn further validated the model's robustness, demonstrating its effectiveness in predicting housing prices. The combination of OLS and Scikit-learn methodologies allowed for a thorough exploration and understanding of the factors impacting property sale prices.
+The OLS regression analysis successfully identified significant predictors of SalePrice, culminating in a model with an R-squared value of 0.879 and an Adjusted R-squared of 0.877. This indicates that the model explains a substantial portion of the variance in housing prices.
+
+Further validation using Scikit-learn confirmed the model's robustness. The validation set achieved an R-squared of 0.898, while the test set had an R-squared of 0.821. Additionally, the cross-validation process yielded a mean R-squared of 0.864, and when combining normal splitting with cross-validation, the mean R-squared improved to 0.886. These results illustrate the model's strong predictive performance across various data splits.
+
+Overall, the combination of OLS and Scikit-learn methodologies provided a comprehensive framework for exploring and understanding the factors influencing property sale prices, making this analysis a valuable tool for stakeholders in the real estate market.
