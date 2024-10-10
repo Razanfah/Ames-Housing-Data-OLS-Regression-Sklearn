@@ -48,7 +48,7 @@ In this project, we will conduct an OLS regression analysis with the primary goa
 
 2. **Dummy Variable Conversion**: We will convert categorical features into dummy variables for inclusion in our regression model.
 
-3. **Incremental Feature Addition**: We will add features to the model one by one, monitoring changes in the R² value.
+3. **Incremental Dummy Features Addition**: We will add dummy features to the model one by one, monitoring changes in the R² value.
 
 ### Model Summary
 
