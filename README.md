@@ -51,8 +51,8 @@ In this project, we will conduct an OLS regression analysis with the primary goa
 ### Model Summary
 
 - Dependent Variable: SalePrice
-- Final R-squared (OLS): 0.879
-- Adjusted R-squared (OLs): 0.877
+- R-squared (OLS): 0.879
+- Adjusted R-squared (OLS): 0.877
   
 ## Regression with Scikit-learn
 
