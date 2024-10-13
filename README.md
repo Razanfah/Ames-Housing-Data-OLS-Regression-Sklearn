@@ -89,9 +89,9 @@ In this section, we implement a robust regression analysis using Scikit-learn af
 
 To evaluate the model’s performance, we calculated the following metrics during cross-validation:
 
-- **Sum of Squared Errors (SSE)**: [Insert SSE Value]
-- **Root Mean Squared Error (RMSE)**: [Insert RMSE Value]
-- **Mean Absolute Error (MAE)**: [Insert MAE Value]
+- **Sum of Squared Errors (SSE)**
+- **Root Mean Squared Error (RMSE)**
+- **Mean Absolute Error (MAE)**
 
 These metrics provide a comprehensive understanding of the model's predictive performance.
 
